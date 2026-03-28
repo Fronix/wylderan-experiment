@@ -24,3 +24,11 @@ Caltworks has no formal governance. The Calt family holds authority by default b
 ### Resource Depletion
 
 The salt flats that built Caltworks are shrinking. The town does not know how to talk about this. Settlements built on extraction have a lifespan tied to what they extract. This world may return to this theme: places that exist because of a resource, and the question of what they become when the resource runs out.
+
+### Trade Chain Dependency
+
+[[Rackby]] needs salt to cure fish. [[Caltworks]] produces salt but has no direct buyer relationship. Both settlements depend on [[Vess Cordham]] as the connection between them, and neither deals with the other. The arrangement works until it stops working, and the person who knows when it will stop is the factor. This is the second iteration of the positional power theme: infrastructure, access, and information create leverage that does not require violence or formal authority.
+
+### Information Asymmetry
+
+[[Vess Cordham]] knows the Caltworks salt is declining and has said nothing. [[Tallin Oss]] at [[The Fork]] has crate logs that could expose Caltworks' real output. [[Maren Seedeck]] controls the ledger but shares nothing. [[Dessa Vael]] does not know who approached her. Everyone in this world's first trade corridor holds partial information and benefits from keeping it partial. The crises that are building are all downstream of information someone chose not to share.

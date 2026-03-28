@@ -38,6 +38,8 @@ Salt is the only export that matters. The evaporation process concentrates miner
 
 The Calt family collects a salt tithe, one crate in eight, from every independent crew working the outer flats. This is justified as payment for squatter's right: the Calts were here first, they dug the first channels, they set the flats up. Newer arrivals consider this a tax on work they did themselves and a debt that should have expired a generation ago.
 
+The primary buyer for finished salt is [[Rackby]], a fish-curing settlement three days northeast on Greymere lake. Salt moves there through [[Vess Cordham]], a merchant factor based at Rackby who stages loads at [[The Fork]] before the final leg. Neither Caltworks nor Rackby deals with each other directly. Cordham is the arrangement.
+
 Secondary income comes from the supply chain: food, tools, rope, timber for fires, carters and packers who move finished product to buyers elsewhere.
 
 ## Tensions
@@ -57,6 +59,7 @@ There is also a quieter problem: the flats are shrinking. Each year the producti
 | The Brine Sheds | Long open structures where packed salt is dried before crating. |
 | The Outer Ring | Informal name for the newer worker settlement. Has its own food stalls and a small meeting hall. |
 | The North Track | Path leading to the breakaway flat. A visible reminder of what leaving looks like. |
+| [[The Fork]] | Waypoint staging yard 1-1.5 days east on the salt road. Where factors negotiate and crates change hands before the final haul to Rackby. |
 
 ## Notable Residents
 
