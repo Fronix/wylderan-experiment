@@ -44,7 +44,7 @@ Secondary income comes from the supply chain: food, tools, rope, timber for fire
 
 The tithe is the open wound. The Calt family insists it is fair. Independent crews increasingly do not. Three families broke away two seasons ago to work a secondary flat a half-day's walk north, and production there is starting to challenge the main flats. The Calts have not yet decided whether to acquire that flat or undercut its pricing.
 
-The weighing yard is where the real power sits. The woman who runs it, [[Harla Calt]], decides whose salt gets weighed first when the queue backs up. First weigh means first payment means the difference between a good week and a bad one. She has held this position for eleven years. Her judgments are not random.
+The weighing yard is where the real power sits. [[Maren Seedeck]] decides whose salt gets weighed first when the queue backs up. First weigh means first payment means the difference between a good week and a bad one. She has held this position for six years. Her judgments are not random.
 
 There is also a quieter problem: the flats are shrinking. Each year the productive crust is a little smaller, the water a little less mineral-rich. Nobody in the Calt family will say this out loud, but the workers who have been here long enough have noticed.
 
@@ -52,7 +52,7 @@ There is also a quieter problem: the flats are shrinking. Each year the producti
 
 | Location | Description |
 |---|---|
-| The Weighing Yard | Covered pavilion near the main flat access. Harla Calt runs it. |
+| The Weighing Yard | Covered pavilion near the main flat access. [[Maren Seedeck]] manages weighing here. |
 | Calt Homestead | Original family compound, oldest buildings in town. |
 | The Brine Sheds | Long open structures where packed salt is dried before crating. |
 | The Outer Ring | Informal name for the newer worker settlement. Has its own food stalls and a small meeting hall. |
@@ -62,12 +62,15 @@ There is also a quieter problem: the flats are shrinking. Each year the producti
 
 | Name | Role | Link |
 |---|---|---|
-| [[Harla Calt]] | Runs the weighing yard, de facto most powerful person in town | Calt family, has held her post for 11 years |
-| [[Pem Varsk]] | Informal speaker for the independent crews, two-season veteran | Arrived as a worker, now leads the three families who run the north flat |
+| [[Maren Seedeck]] | Runs the weighing yard, de facto most powerful person in town | Outsider who arrived six years ago, trusted by haulers and family alike |
+| [[Dessa Vael]] | Informal speaker for the independent crews | Hauler who arrived three years ago, now the nearest thing to an organizer the workers have |
+| [[Oran Calt]] | Head of the Calt family, patriarch of the founding claim | Has run the family's salt operation for decades, increasingly at odds with the workers who outnumber his kin |
 
 > [!warning]- GM Only
-> The flats are genuinely degrading. In 5-10 years there may not be enough salt to sustain the town's current size. Harla knows this and has been quietly diversifying the family's assets outside Caltworks, but she hasn't told anyone. If the PCs poke around the family accounts or push her under pressure, this comes out.
+> The flats are genuinely degrading. In 5-10 years there may not be enough salt to sustain the town's current size. Oran Calt is aware of this and refuses to examine it clearly. His eldest son is already talking about selling rights and leaving. If that happens, the family claim collapses within a generation.
 >
-> Pem Varsk found a small vein of a different mineral compound on the north flat, not salt. He doesn't know what it is yet, but it's not nothing. A buyer with the right knowledge could make this interesting.
+> Maren Seedeck has been approached twice by outside merchants who want her to introduce tiered weigh fees, which would let buyers purchase queue priority. She has refused both times but has told no one she was approached. If this surfaces, every faction will want to know whose side she is really on.
+>
+> Dessa Vael has been offered money by a merchant factor from outside the settlement to help a hauler stoppage happen at a specific time, which coincides with a large Calt shipment. She has not taken the offer. She has not said no yet. If the other haulers learn about this, they will question her motivations.
 >
 > The salt tithe isn't legally enforceable by any outside authority, it's purely enforced by the Calt family's ability to deny access to the main flats and the weighing yard. If the workers ever organized hard enough, it would collapse. Three families have already left. The question is whether anyone will make the next move.
