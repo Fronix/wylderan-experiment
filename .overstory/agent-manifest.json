@@ -1,24 +1,6 @@
 {
 	"version": "1.0",
 	"agents": {
-		"scout": {
-			"file": "scout.md",
-			"model": "haiku",
-			"tools": [
-				"Read",
-				"Glob",
-				"Grep",
-				"Bash"
-			],
-			"capabilities": [
-				"explore",
-				"research"
-			],
-			"canSpawn": false,
-			"constraints": [
-				"read-only"
-			]
-		},
 		"builder": {
 			"file": "builder.md",
 			"model": "sonnet",
@@ -32,8 +14,7 @@
 			],
 			"capabilities": [
 				"implement",
-				"refactor",
-				"fix"
+				"write"
 			],
 			"canSpawn": false,
 			"constraints": []
@@ -49,69 +30,11 @@
 			],
 			"capabilities": [
 				"review",
-				"validate"
+				"audit"
 			],
 			"canSpawn": false,
 			"constraints": [
 				"read-only"
-			]
-		},
-		"lead": {
-			"file": "lead.md",
-			"model": "opus",
-			"tools": [
-				"Read",
-				"Write",
-				"Edit",
-				"Glob",
-				"Grep",
-				"Bash",
-				"Task"
-			],
-			"capabilities": [
-				"coordinate",
-				"implement",
-				"review"
-			],
-			"canSpawn": true,
-			"constraints": []
-		},
-		"merger": {
-			"file": "merger.md",
-			"model": "sonnet",
-			"tools": [
-				"Read",
-				"Write",
-				"Edit",
-				"Glob",
-				"Grep",
-				"Bash"
-			],
-			"capabilities": [
-				"merge",
-				"resolve-conflicts"
-			],
-			"canSpawn": false,
-			"constraints": []
-		},
-		"coordinator": {
-			"file": "coordinator.md",
-			"model": "opus",
-			"tools": [
-				"Read",
-				"Glob",
-				"Grep",
-				"Bash"
-			],
-			"capabilities": [
-				"coordinate",
-				"dispatch",
-				"escalate"
-			],
-			"canSpawn": true,
-			"constraints": [
-				"read-only",
-				"no-worktree"
 			]
 		},
 		"orchestrator": {
@@ -126,29 +49,9 @@
 			"capabilities": [
 				"orchestrate",
 				"coordinate",
-				"dispatch",
-				"escalate"
+				"dispatch"
 			],
 			"canSpawn": true,
-			"constraints": [
-				"read-only",
-				"no-worktree"
-			]
-		},
-		"monitor": {
-			"file": "monitor.md",
-			"model": "sonnet",
-			"tools": [
-				"Read",
-				"Glob",
-				"Grep",
-				"Bash"
-			],
-			"capabilities": [
-				"monitor",
-				"patrol"
-			],
-			"canSpawn": false,
 			"constraints": [
 				"read-only",
 				"no-worktree"
@@ -156,56 +59,26 @@
 		}
 	},
 	"capabilityIndex": {
-		"explore": [
-			"scout"
-		],
-		"research": [
-			"scout"
-		],
 		"implement": [
-			"builder",
-			"lead"
-		],
-		"refactor": [
 			"builder"
 		],
-		"fix": [
+		"write": [
 			"builder"
 		],
 		"review": [
-			"reviewer",
-			"lead"
-		],
-		"validate": [
 			"reviewer"
 		],
-		"coordinate": [
-			"lead",
-			"coordinator",
-			"orchestrator"
-		],
-		"merge": [
-			"merger"
-		],
-		"resolve-conflicts": [
-			"merger"
-		],
-		"dispatch": [
-			"coordinator",
-			"orchestrator"
-		],
-		"escalate": [
-			"coordinator",
-			"orchestrator"
+		"audit": [
+			"reviewer"
 		],
 		"orchestrate": [
 			"orchestrator"
 		],
-		"monitor": [
-			"monitor"
+		"coordinate": [
+			"orchestrator"
 		],
-		"patrol": [
-			"monitor"
+		"dispatch": [
+			"orchestrator"
 		]
 	}
 }

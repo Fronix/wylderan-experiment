@@ -1,5 +1,10 @@
 version: '1'
-domains: []
+domains:
+  - anti-cliches
+  - ttrpg-system
+  - writing-craft
+  - obsidian
+  - adventure-design
 governance:
   max_entries: 100
   warn_entries: 150
