@@ -1,0 +1,7 @@
+name: adventuresmith
+capability: builder
+runtime: sapling
+prompt: canopy:adventuresmith
+guards: .grove/guards/writer.json
+max_turns: 75
+description: Creates playable content - adventures, quest boards, player primers, GM toolkits.

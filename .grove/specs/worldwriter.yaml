@@ -1,0 +1,7 @@
+name: worldwriter
+capability: builder
+runtime: sapling
+prompt: canopy:worldwriter
+guards: .grove/guards/writer.json
+max_turns: 50
+description: Creates and modifies location, faction, history, and lore files in the vault.

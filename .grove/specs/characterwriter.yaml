@@ -1,0 +1,7 @@
+name: characterwriter
+capability: builder
+runtime: sapling
+prompt: canopy:characterwriter
+guards: .grove/guards/writer.json
+max_turns: 50
+description: Creates and modifies NPC files and the NPC registry.

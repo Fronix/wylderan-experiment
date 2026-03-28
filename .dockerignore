@@ -1,0 +1,14 @@
+.git
+.overstory/worktrees
+.overstory/runtime
+.mulch
+.seeds
+.canopy
+.grove
+.claude
+docs_dev
+node_modules
+site/public
+site/.quartz-cache
+site/node_modules
+*.tar.gz

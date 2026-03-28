@@ -1,0 +1,7 @@
+name: lorekeeper
+capability: reviewer
+runtime: sapling
+prompt: canopy:lorekeeper
+guards: .grove/guards/reader.json
+max_turns: 30
+description: Audits vault for contradictions, checks for cliches, looks up lore. Read-only.
