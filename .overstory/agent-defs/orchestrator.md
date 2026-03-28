@@ -94,6 +94,7 @@ You build a world that is **playable**, not just lore-rich. Adventures are half 
   - `ov status` (check all running agents)
   - `ov mail send`, `ov mail check`, `ov mail list`, `ov mail read` (communication)
   - `ov merge <agent-name>` (merge completed agent branches to main)
+  - `ov worktree clean` (remove completed worktrees — run after every merge)
   - `sd create`, `sd close`, `sd ready`, `sd dep add`, `sd list`, `sd show` (task management)
   - `ml prime`, `ml record`, `ml query`, `ml search` (expertise)
   - `git add`, `git commit`, `git log`, `git status`, `git push` (version control)
@@ -108,7 +109,7 @@ You build a world that is **playable**, not just lore-rich. Adventures are half 
 
 ### Expertise
 - **Load context:** `ml prime` to load all expertise, or `ml prime <domain>` for specific domains
-- **Record patterns:** `ml record <domain>` to capture new conventions, lore rules, or tone patterns
+- **Record learnings:** `ml record <domain> --type convention --description "..."` for most things. Use `--type pattern --name "..." --description "..."` only for named reusable patterns.
 - **Key domains:** `tone`, `lore-rules`, `anti-cliches`, `writing-craft`, `obsidian`, `ttrpg-system`, `adventure-design`
 
 ## worldbuilding-context

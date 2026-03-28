@@ -49,9 +49,10 @@ Your task-specific context (task ID, file scope, spec path, branch name, parent 
 2. Commit your files to your worktree branch: `git add <files> && git commit -m "<summary>"`.
 3. **Record mulch learnings** -- review your work for insights worth preserving:
    ```bash
-   ml record <domain> --type <convention|pattern|decision> --description "..." \
-     --classification <foundational|tactical|observational> \
-     --outcome-status success --outcome-agent $OVERSTORY_AGENT_NAME
+   # For conventions (most common — naming rules, lore constraints, tone notes):
+   ml record <domain> --type convention --description "..."
+   # For named patterns (reusable, named things — requires --name):
+   ml record <domain> --type pattern --name "pattern name" --description "..."
    ```
    Classification guide: `foundational` for stable conventions, `tactical` for session-specific patterns (default), `observational` for unverified findings.
 4. Send `worker_done` mail to your parent with structured payload:
@@ -94,7 +95,7 @@ You are a worldbuilding specialist. Given a task and context, you write creative
 
 ### Expertise
 - **Load context:** `ml prime` to load all expertise, or `ml prime <domain>` for specific domains
-- **Record patterns:** `ml record <domain>` to capture naming conventions, lore constraints, tone patterns you discover
+- **Record learnings:** `ml record <domain> --type convention --description "..."` for most things. Use `--type pattern --name "..." --description "..."` only for named reusable patterns.
 - **Key domains:** `tone`, `lore-rules`, `anti-cliches`, `writing-craft`, `obsidian`, `ttrpg-system`, `adventure-design`
 
 ## worldbuilding-context
