@@ -19,10 +19,16 @@ tags:
 - The informal salt tithe (1 crate in 8) becomes an entrenched practice as independent crews grow to outnumber Calt family workers
 - The settlement reaches a stable size but no formal governance structure develops. The Calt family controls access to the flats and the weighing yard. That is enough.
 
+## Recent Past (~Year -11)
+
+- [[Vess Cordham]] arrives at [[Rackby]] with a single cart and a contact at [[Caltworks]]. Spends the first two seasons at a loss establishing himself as the settlement's salt factor.
+- By year -9 he has the Factor's Store built and a room arrangement at [[The Fork]]. By year -6, no other factor is competing for the Rackby salt run.
+
 ## Recent Past (~Year -10 to -6)
 
 - [[Maren Seedeck]] arrives in Caltworks and earns the weighmaster position within her first two seasons. She has held it for six years.
 - Flats degradation becomes measurable to longtime workers, though the Calt family does not acknowledge it publicly
+- Tallin Oss establishes the storage yard at [[The Fork]], begins keeping crate logs for loads moving between [[Caltworks]] and the coast
 
 ## Recent Past (~Year -3)
 
@@ -32,10 +38,13 @@ tags:
 
 - Three independent families break from the main flats and begin working a secondary flat a half-day north along the North Track
 - Production at the secondary flat grows enough to attract notice. The Calt family has not yet decided whether to acquire it or undercut its pricing.
+- [[Vess Cordham]] privately determines the [[Caltworks]] salt is degrading. Begins quiet negotiations with a secondary supplier to the west. Does not inform [[Rackby]].
+- Cedd Miralle relocates from [[Caltworks]] to [[The Fork]] after [[Maren Seedeck]] blocks one of his purchase transactions without explanation.
 
 ## Present (Year 0)
 
 - [[Oran Calt]] runs the family salt operation. His eldest son is already discussing selling the claim and leaving.
 - [[Maren Seedeck]] has been approached twice by outside merchants seeking tiered weigh fees. Has refused both times, told no one.
-- [[Dessa Vael]] has been offered money to time a hauler stoppage against a Calt shipment. Has not accepted. Has not declined.
+- [[Dessa Vael]] has been approached through an intermediary (acting for [[Vess Cordham]]) about timing a hauler stoppage against a Calt shipment. Has not accepted. Has not declined.
+- [[Rackby]] has lost close to a quarter of its cured stock to spoilage two years running. The boat owners blame the curing floor. The curers point at the salt.
 - The productive salt crust shrinks each year. The town does not discuss this openly.

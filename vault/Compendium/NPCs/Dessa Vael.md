@@ -40,6 +40,7 @@ She started talking to other haulers about the stoppage idea because she needed 
 | [[Maren Seedeck]] | Cautious trust | She believes Seedeck is fair, but is not sure whose side Seedeck would be on if it came to that |
 | [[Oran Calt]] | Civil resentment | She does not hate him, she just does not accept his framing |
 | Other haulers | Accidental leader | They are watching her to see what she does next |
+| [[Vess Cordham]] | Unknown contact | An intermediary approached her on Cordham's behalf about timing the stoppage to a specific Calt shipment. She does not yet know who is behind it. |
 
 ## What They Want
 
@@ -50,7 +51,7 @@ She started talking to other haulers about the stoppage idea because she needed 
 > [!warning]- GM Only
 > **Campaign role:** The pressure valve. If the players want to understand the tension in [[Caltworks]], she will tell them plainly. If they want to intervene in the situation, she is the lever.
 >
-> **Key secret:** She has been offered money by a merchant factor from outside the settlement to help the stoppage happen at a specific time, which happens to coincide with a large Calt shipment. She has not taken it. She has not said no yet.
+> **Key secret:** She has been offered money by [[Vess Cordham]] (through an intermediary, so she does not yet know his name) to help the stoppage happen at a specific time, which happens to coincide with a large Calt shipment. She has not taken it. She has not said no yet. Cordham's interest is in disrupting a Calt shipment to [[Rackby]] at a moment that benefits his supplier transition.
 >
 > **Arc trajectory:** If the stoppage happens, it either works (major power shift, she becomes a significant figure) or it does not (she leaves or is made an example). If the outside offer surfaces, the other haulers will wonder what her actual motivations are.
 >

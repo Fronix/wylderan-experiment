@@ -4,6 +4,14 @@
 
 World created. System: Nimble.
 
+## 2026-03-28 — Cross-References: Salt Trade Integration
+
+- Updated [[Dessa Vael]]: named [[Vess Cordham]] as the source of the intermediary approach; added relationship entry
+- Updated [[Maren Seedeck]]: added relationship entries for [[Vess Cordham]] and Cedd Miralle
+- Updated [[Caltworks]]: Economy section now names [[Rackby]], [[Vess Cordham]], and [[The Fork]] as the trade chain; Notable Locations now includes [[The Fork]]
+- Updated Timeline: added Cordham's establishment at Rackby (~Year -11), Tallin Oss's crate logs, Cordham's supplier arrangement (~Year -0.5), Cedd Miralle's relocation, Rackby spoilage pattern
+- Updated World Overview: added Trade Chain Dependency and Information Asymmetry themes
+
 ## 2026-03-28 — The Fork Created
 
 - Created [[The Fork]], a waypoint staging yard on the salt road between [[Caltworks]] and the fishing coast

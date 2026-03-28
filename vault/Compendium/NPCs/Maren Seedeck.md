@@ -40,6 +40,8 @@ She has no stake in who owns the flats. She cares about the integrity of the led
 | [[Oran Calt]] | Managed friction | He wants authority over her office and she ignores this politely |
 | [[Dessa Vael]] | Known concern | She has heard about the hauler talks and is watching without acting yet |
 | The haulers | Trusted neutral | They trust her because she has been fair so far |
+| [[Vess Cordham]] | Careful distance | The factor who moves Caltworks salt to [[Rackby]]. He avoids antagonizing her because she is the person most capable of exposing what he knows about the salt decline. |
+| Cedd Miralle | Unresolved history | A factor who moved to [[The Fork]] after she blocked one of his purchase transactions. She has given no explanation. |
 
 ## What They Want
 
