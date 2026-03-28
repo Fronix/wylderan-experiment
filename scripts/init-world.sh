@@ -1,20 +1,43 @@
 #!/bin/bash
 # Initialize a new world in the current repo.
-# Usage: init-world.sh <world-name> [--system <system>]
+# Usage: init-world.sh <world-name> [--system <system>] [--reset]
 
 set -euo pipefail
 
 SYSTEM="Nimble"
 WORLD_NAME=""
+RESET=false
 
 # Parse arguments
 while [[ $# -gt 0 ]]; do
   case "$1" in
     --system) SYSTEM="$2"; shift 2 ;;
+    --reset) RESET=true; shift ;;
     -*) echo "Unknown option: $1"; exit 1 ;;
     *) WORLD_NAME="$1"; shift ;;
   esac
 done
+
+# Check for existing world
+EXISTING=false
+if [ -d "vault/Compendium" ] || [ -f "vault/World Overview.md" ]; then
+  EXISTING=true
+fi
+
+if [ "$EXISTING" = true ] && [ "$RESET" = false ]; then
+  echo "[grove] A world already exists in this repo."
+  echo ""
+  echo "  To reset and start fresh:  ./scripts/init-world.sh <name> --reset"
+  echo "  To keep going:             ./scripts/grove-auto.sh"
+  echo ""
+  read -p "Reset and start a new world? This deletes all vault content. [y/N] " CONFIRM
+  if [[ "$CONFIRM" =~ ^[Yy]$ ]]; then
+    RESET=true
+  else
+    echo "[grove] Aborted."
+    exit 0
+  fi
+fi
 
 if [ -z "$WORLD_NAME" ]; then
   read -p "World name: " WORLD_NAME
@@ -22,9 +45,32 @@ fi
 
 if [ -z "$WORLD_NAME" ]; then
   echo "Error: world name is required."
-  echo "Usage: init-world.sh <world-name> [--system <system>]"
+  echo "Usage: init-world.sh <world-name> [--system <system>] [--reset]"
   exit 1
 fi
+
+# Reset if requested
+if [ "$RESET" = true ]; then
+  echo "[grove] Resetting..."
+
+  # Stop any running orchestrator
+  ov orchestrator stop 2>/dev/null || true
+
+  # Clean overstory runtime state (worktrees, sessions, mail, logs)
+  ov clean --worktrees --sessions --mail --logs --specs --agents --metrics 2>/dev/null || true
+
+  # Remove vault content
+  rm -rf vault/
+
+  # Remove os-eco data (will be re-created)
+  rm -rf .mulch/ .seeds/ .canopy/ .overstory/
+
+  # Remove generated CLAUDE.md
+  rm -f CLAUDE.md
+
+  echo "[grove] Reset complete."
+fi
+
 echo "[grove] Initializing world: ${WORLD_NAME} (system: ${SYSTEM})"
 
 # Create vault structure
@@ -98,6 +144,25 @@ World created. System: ${SYSTEM}.
 EOF
 
 echo "[grove] Vault structure created."
+
+# Check for required tools
+MISSING_TOOLS=""
+for tool in ml sd cn ov; do
+  if ! command -v "$tool" &>/dev/null; then
+    MISSING_TOOLS="${MISSING_TOOLS} ${tool}"
+  fi
+done
+
+if [ -n "$MISSING_TOOLS" ]; then
+  echo ""
+  echo "[grove] Warning: missing os-eco tools:${MISSING_TOOLS}"
+  echo "[grove] Install with: bun install -g @os-eco/mulch-cli @os-eco/seeds-cli @os-eco/canopy-cli @os-eco/overstory-cli @os-eco/sapling-cli"
+  echo "[grove] Vault created, but os-eco setup skipped."
+  echo ""
+  echo "[grove] World '${WORLD_NAME}' partially initialized (vault only)."
+  echo "[grove] Run this script again after installing the tools."
+  exit 0
+fi
 
 # Initialize os-eco tools
 echo "[grove] Initializing os-eco tools..."
@@ -195,6 +260,13 @@ cn create --name worldwriter --extends base-agent --description "Location and lo
 cn create --name characterwriter --extends base-agent --description "NPC and character writer" --section "body=$(cat .grove/prompts/characterwriter.md)" 2>/dev/null || true
 cn create --name adventuresmith --extends base-agent --description "Playable content specialist" --section "body=$(cat .grove/prompts/adventuresmith.md)" 2>/dev/null || true
 cn create --name idea-agent --extends base-agent --description "Ephemeral brainstorm agent" --section "body=$(cat .grove/prompts/idea-agent.md)" 2>/dev/null || true
+
+# Configure overstory for worldbuilding
+if [ -f ".overstory/config.yaml" ]; then
+  # Set max concurrent agents to 5 and remove code quality gates
+  sed -i 's/maxConcurrent: [0-9]*/maxConcurrent: 5/' .overstory/config.yaml 2>/dev/null || true
+  sed -i '/qualityGates:/,/description:.*errors/{s/qualityGates:.*/qualityGates: []/;/- name:/d;/command:/d;/description:/d}' .overstory/config.yaml 2>/dev/null || true
+fi
 
 echo ""
 echo "[grove] World '${WORLD_NAME}' initialized."
