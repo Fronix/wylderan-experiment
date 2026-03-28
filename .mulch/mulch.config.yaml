@@ -5,6 +5,7 @@ domains:
   - writing-craft
   - obsidian
   - adventure-design
+  - lore-rules
 governance:
   max_entries: 100
   warn_entries: 150

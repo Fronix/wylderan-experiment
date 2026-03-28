@@ -1,0 +1,1 @@
+{"type":"convention","content":"When worldwriter and charwriter agents produce conflicting NPC names, charwriter names are canonical. The fixer agent reconciles settlement files to match charwriter output.","classification":"foundational","recorded_at":"2026-03-28T22:12:11.474Z","outcomes":[{"status":"success","agent":"fixer-caltworks"}],"id":"mx-6b8b24"}
