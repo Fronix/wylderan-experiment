@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-03-29 — The Fork: NPCs Created
+
+- Created [[Tallin Oss]] NPC file: storage yard operator at [[The Fork]], eight seasons of crate logs, reluctant keeper of dangerous records, Cordham's hold-logs message sitting unanswered
+- Created [[Cedd Miralle]] NPC file: displaced factor with a 2.5-year private audit of Caltworks, numbers that do not reconcile, and a settled approach to any outside investigator who asks the right question
+
+## 2026-03-29 — The Fork: Information Dynamics
+
+- Updated [[The Fork]]: Cedd Miralle now has a settled approach, he will not report proactively but will share his findings with any outside party who comes with the right question; obtained Caltworks declared output through a weighmaster contact
+- Updated [[The Fork]]: Tallin Oss received a message from [[Vess Cordham]] to hold all logs pending a factor audit; Oss made a precautionary copy of the discrepancy entries (three seasons where weights diverge from Cordham's declared Rackby receipts) and stored it separately in the locked chest at the rest house
+- Updated Timeline: added Recent Weeks section covering Miralle completing his comparison and Cordham's message to Oss
+
 ## 2026-03-29 — Cross-References: Silthen Integration
 
 - Updated [[Vess Cordham]]: "What they hide" now names [[Silthen]] and [[Hava Denn]]; added Hava Denn and Pell Voel to relationships table; GM Key Secret now names Silthen and notes Hava Denn as a risk vector
