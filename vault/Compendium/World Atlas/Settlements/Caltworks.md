@@ -50,6 +50,14 @@ The weighing yard is where the real power sits. [[Maren Seedeck]] decides whose 
 
 There is also a quieter problem: the flats are shrinking. Each year the productive crust is a little smaller, the water a little less mineral-rich. Nobody in the Calt family will say this out loud, but the workers who have been here long enough have noticed.
 
+### The Succession Question
+
+[[Oran Calt]]'s eldest son, [[Bevan Calt]], has been seen twice in recent months meeting with people who are not salt workers and not local. Word came back through a carter that one of those meetings happened in [[Rackby]]. Bevan has said nothing publicly, but he has stopped showing up to the morning weighing queue and pulled his name from the duty rotation at the brine sheds.
+
+Oran has a younger daughter, [[Nael Calt]], who has been working the outer flats since she was old enough to carry a scraper. She has no formal standing in the family claim and has not been named a successor. In practice she is the one currently overseeing day-to-day work on the main flats while Oran is less mobile and Bevan is absent.
+
+The workers are watching. If Bevan sells to an outside buyer, the tithe does not go away, it just goes to someone they have no history with. An unknown landlord is more threatening than a familiar one. The independent crews at the north flat are quietly considering whether to press their position before the claim changes hands.
+
 ## Notable Locations
 
 | Location | Description |
@@ -65,15 +73,21 @@ There is also a quieter problem: the flats are shrinking. Each year the producti
 
 | Name | Role | Link |
 |---|---|---|
-| [[Maren Seedeck]] | Runs the weighing yard, de facto most powerful person in town | Outsider who arrived six years ago, trusted by haulers and family alike |
+| [[Maren Seedeck]] | Runs the weighing yard, de facto most powerful person in town | Outsider who arrived seven years ago, trusted by haulers and family alike |
 | [[Dessa Vael]] | Informal speaker for the independent crews | Hauler who arrived three years ago, now the nearest thing to an organizer the workers have |
 | [[Oran Calt]] | Head of the Calt family, patriarch of the founding claim | Has run the family's salt operation for decades, increasingly at odds with the workers who outnumber his kin |
+| [[Bevan Calt]] | Oran's eldest son, heir presumptive | Rarely at the flats. In apparent negotiations to sell the family claim. Has not spoken to the settlement about his intentions. |
+| [[Nael Calt]] | Oran's younger daughter, de facto operations lead | No formal standing in the family claim. Currently overseeing daily work on the outer flats while Oran is less mobile. |
 
 > [!warning]- GM Only
-> The flats are genuinely degrading. In 5-10 years there may not be enough salt to sustain the town's current size. Oran Calt is aware of this and refuses to examine it clearly. His eldest son is already talking about selling rights and leaving. If that happens, the family claim collapses within a generation.
+> The flats are genuinely degrading. In 5-10 years there may not be enough salt to sustain the town's current size. Oran Calt is aware of this and refuses to examine it clearly. His eldest son Bevan is in active discussions with at least one outside buyer. If a sale goes through, the family claim transfers to a party with no roots here and no reason to maintain Oran's informal tolerances.
 >
-> Maren Seedeck has been approached twice by outside merchants who want her to introduce tiered weigh fees, which would let buyers purchase queue priority. She has refused both times but has told no one she was approached. If this surfaces, every faction will want to know whose side she is really on.
+> **The claim has no formal documentation.** The Calt family's authority over the flats rests entirely on priority of arrival, the original channel-digging, and decades of unchallenged practice. There is no deed, no charter, no outside body that has recognized the tithe as legitimate. The moment someone with standing challenges it through any outside authority, the Calts have nothing to show. They have always relied on the workers not knowing this clearly enough to act on it.
+>
+> Maren Seedeck has been approached twice by outside merchants who want her to introduce tiered weigh fees, which would let buyers purchase queue priority. She has refused both times but has told no one she was approached. If this surfaces, every faction will want to know whose side she is really on. She is also the only person in town whose ledgers could establish, definitively, how long the tithe has been collected and at what rate, which would matter in any formal dispute.
 >
 > Dessa Vael has been offered money by a merchant factor from outside the settlement to help a hauler stoppage happen at a specific time, which coincides with a large Calt shipment. She has not taken the offer. She has not said no yet. If the other haulers learn about this, they will question her motivations.
 >
-> The salt tithe isn't legally enforceable by any outside authority, it's purely enforced by the Calt family's ability to deny access to the main flats and the weighing yard. If the workers ever organized hard enough, it would collapse. Three families have already left. The question is whether anyone will make the next move.
+> Nael Calt is not formally named in any succession arrangement. She works the outer flats and has more operational knowledge of the works than anyone in the family. If Bevan sells and Oran dies without naming her, her claim is as informal as the tithe itself.
+>
+> The salt tithe is not legally enforceable by any outside authority, it is purely enforced by the Calt family's ability to deny access to the main flats and the weighing yard. If the workers organized hard enough, it would collapse. Three families have already left. The succession uncertainty is the accelerant: workers who might have waited another season are now asking whether it makes more sense to move before an unknown new owner arrives.
