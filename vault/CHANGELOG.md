@@ -6,6 +6,13 @@ type: changelog
 
 # Changelog
 
+## 2026-03-29 — Calt Succession Crisis
+
+- Created [[Bevan Calt]] NPC file: [[Oran Calt]]'s eldest son, in active sale negotiations with an outside merchant consortium, rational exit from a declining claim he never wanted
+- Created [[Nael Calt]] NPC file: Oran's younger daughter, no formal standing in the claim, de facto manager of day-to-day flat operations, the person most invested in a future the claim's formal heirs are abandoning
+- Updated [[Oran Calt]]: Bevan Calt (corrected from Tavin Calt) added to relationships and succession note; arc trajectory updated to reflect correct name
+- Removed duplicate NPC file Tavin Calt.md (incorrect name for the eldest son role; Bevan Calt is canonical)
+
 ## 2026-03-29 — Lore Fixes: Timeline Contradictions, Wikilinks, Frontmatter
 
 - Fixed Timeline: [[Cedd Miralle]]'s relocation moved from "Two Seasons Ago" to "~Year -3" (consistent with NPC, The Fork, and three-year audit duration)
