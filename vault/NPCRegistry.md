@@ -10,6 +10,7 @@ type: meta
 |------|----------|------|--------|------|
 | [[Maren Seedeck]] | [[Caltworks]] | Salt Warden / Weighmaster | alive | [[Maren Seedeck]] |
 | [[Oran Calt]] | [[Caltworks]] | Calt Family Patriarch | alive | [[Oran Calt]] |
+| [[Tavin Calt]] | [[Caltworks]] | Oran's eldest son, prospective heir (considering exit) | alive | [[Tavin Calt]] |
 | [[Dessa Vael]] | [[Caltworks]] | Hauler, informal organizer | alive | [[Dessa Vael]] |
 | [[Vess Cordham]] | [[Rackby]] | Merchant factor, salt/fish trade | alive | [[Vess Cordham]] |
 | [[Tamma Wreich]] | [[Rackby]] | Boat owner, informal council head | alive | [[Tamma Wreich]] |
