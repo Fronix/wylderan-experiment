@@ -1,6 +1,7 @@
 ---
 tags:
   - meta
+type: meta
 ---
 
 # Timeline
@@ -28,18 +29,18 @@ tags:
 
 - [[Maren Seedeck]] arrives in Caltworks and earns the weighmaster position within her first two seasons. She has held it for six years.
 - Flats degradation becomes measurable to longtime workers, though the Calt family does not acknowledge it publicly
-- Tallin Oss establishes the storage yard at [[The Fork]], begins keeping crate logs for loads moving between [[Caltworks]] and the coast
+- [[Tallin Oss]] establishes the storage yard at [[The Fork]], begins keeping crate logs for loads moving between [[Caltworks]] and the coast
 
 ## Recent Past (~Year -3)
 
 - [[Dessa Vael]] arrives in Caltworks, begins work as a hauler
+- [[Cedd Miralle]] relocates from [[Caltworks]] to [[The Fork]] after [[Maren Seedeck]] blocks one of his purchase transactions without explanation. Begins tracking freight movements against Caltworks' declared output.
 
 ## Two Seasons Ago (~Year -0.5)
 
 - Three independent families break from the main flats and begin working a secondary flat a half-day north along the North Track
 - Production at the secondary flat grows enough to attract notice. The Calt family has not yet decided whether to acquire it or undercut its pricing.
-- [[Vess Cordham]] privately determines the [[Caltworks]] salt is degrading. Begins quiet negotiations with [[Hava Denn]] at [[Silthen]] for grey salt from the estuary tidal pans as a secondary supplier. Does not inform [[Rackby]].
-- Cedd Miralle relocates from [[Caltworks]] to [[The Fork]] after [[Maren Seedeck]] blocks one of his purchase transactions without explanation.
+- [[Vess Cordham]] privately determines the [[Caltworks]] salt is degrading. Accelerates grey salt orders through [[Hava Denn]] at [[Silthen]] as a secondary supplier. Does not inform [[Rackby]].
 
 ## Four Months Ago (~Year -0.33)
 

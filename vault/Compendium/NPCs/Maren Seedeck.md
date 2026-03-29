@@ -27,7 +27,7 @@ Stocky, with work-roughened hands and short dark hair she ties back with whateve
 
 ## Backstory
 
-Maren arrived in [[Caltworks]] six years ago with a trading caravan that kept moving. She had ledger skills, the caravan did not need them as much as the camp did, and she stayed.
+Maren arrived in [[Caltworks]] seven years ago with a trading caravan that kept moving. She had ledger skills, the caravan did not need them as much as the camp did, and she stayed.
 
 Nobody appointed her Salt Warden. The [[Calt family]] asked her to weigh a shipment and she did it right. Then another hauler asked, then another. Within a year she had a shed and a scale and a queue every morning. The [[Calt family]] could have taken over the operation at any point in those early years. They did not, because sitting in a shed weighing salt all day looked like a bad deal. Now they cannot take it back without making an enemy of everyone who trusts her.
 

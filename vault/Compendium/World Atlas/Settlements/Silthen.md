@@ -34,7 +34,7 @@ Most residents arrived as cutters and stayed. Turnover is low because the work i
 
 The result is a community of long acquaintance, with the social patterns that follow. Old debts are remembered. Old favors too. Arguments tend to be specific and long-running, because the people having them will see each other tomorrow.
 
-Hava Denn holds the burn schedule, which she inherited from the previous plot manager over seven years of apprenticeship. Nobody else has the full picture of which plots burn when and why. This is not an arrangement anyone designed. It is how the knowledge moved.
+[[Hava Denn]] holds the burn schedule, which she inherited from the previous plot manager over seven years of apprenticeship. Nobody else has the full picture of which plots burn when and why. This is not an arrangement anyone designed. It is how the knowledge moved.
 
 The salt pan families, the Voel family primarily, have always been a bit separate. Reed work and pan work share a shoreline but not much else. Pan work is slower, dirtier, and more dependent on weather. Reed work pays better in a good season. Pan work pays more consistently in a bad one.
 
@@ -79,7 +79,7 @@ The Voel family is cautiously interested. They know their salt is coarse. They h
 
 | Name | Role | Notes |
 |---|---|---|
-| Hava Denn | Plot manager, holds the burn schedule | Has managed the reed rotation for eleven years. Knows which plots are struggling. Has not said so. Quietly opposed to anything that reduces her plots' priority, including salt expansion. |
+| [[Hava Denn]] | Plot manager, holds the burn schedule | Has managed the reed rotation for eleven years. Knows which plots are struggling. Has not said so. Quietly opposed to anything that reduces her plots' priority, including salt expansion. |
 | Pell Voel | Head of the Voel family, tidal pan operator | Has worked the pans for twenty years without anyone caring. Cordham's interest has made him suddenly careful about what he agrees to and with whom. |
 | Kel Dusk | Carter | Runs loads northeast to Caltworks. Has been making this route for five years. Knows the price Caltworks pays for thatch better than Silthen does. |
 

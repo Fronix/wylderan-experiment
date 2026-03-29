@@ -38,7 +38,7 @@ The boat owners form an informal council, five or six families who handle major 
 
 The summer fish run drives everything. Perch, pike, and whitefish are caught from flat-bottomed lake boats, brought to the communal gut tables at the Landing, and handed off to the curing crews. Curing requires salt in bulk: roughly one part salt to three parts fish by weight, packed in barrels, sealed, and stored for the winter trade that follows.
 
-Rackby buys all of its preservation salt through a single merchant factor, Vess Cordham, who procures from [[Caltworks]] and sells to Rackby at a markup. The finished cured fish travels east and inland with Cordham's carters, to winter markets the settlement has never directly dealt with. Rackby sees neither the salt price at origin nor the fish price at destination. It sees Cordham's offered rate, and it takes it, because there is no other arrangement in place.
+Rackby buys all of its preservation salt through a single merchant factor, [[Vess Cordham]], who procures from [[Caltworks]] and sells to Rackby at a markup. The finished cured fish travels east and inland with Cordham's carters, to winter markets the settlement has never directly dealt with. Rackby sees neither the salt price at origin nor the fish price at destination. It sees Cordham's offered rate, and it takes it, because there is no other arrangement in place.
 
 Two seasons of variable salt quality have raised questions. Some batches cure poorly, fish spoiling faster than expected. The boat owners blame the curing floor. The curers point at the salt. Nobody has a way to check which is right.
 
@@ -67,7 +67,7 @@ Seasonal labor is tightening. Returning workers know their value after two or th
 
 | Name | Role | Notes |
 |---|---|---|
-| Vess Cordham | Merchant factor | Controls salt procurement from [[Caltworks]] and fish export to inland markets. Longest-serving outsider in the settlement. |
+| [[Vess Cordham]] | Merchant factor | Controls salt procurement from [[Caltworks]] and fish export to inland markets. Longest-serving outsider in the settlement. |
 | Tamma Wreich | Largest boat owner, informal head of the boat owners' council | Has run the most boats on Greymere for twelve years. Her agreement is required before any council decision holds. |
 | Burl | Cordham's dock manager | Runs the loading and unloading at the Factor's Store. Nobody uses his last name. |
 

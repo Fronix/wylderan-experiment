@@ -16,7 +16,7 @@ population: ~30 permanent, 60-80 transient
 
 Nobody planned The Fork. The road branched here because the terrain made it convenient, and the first carter to pull over found flat ground and stayed the night. Someone else built a fire ring. Someone eventually put a roof over it.
 
-The rest house has been rebuilt twice but has never stopped serving the same function: a place to sleep when you are between places. Permanent residents arrived the same way the first carter did, they stopped, they noticed something was needed, and they filled the need. Praven Holdt set up feed and water for animals four summers ago. Tallin Oss started taking crates on storage commission two seasons after that. The cistern predates both of them.
+The rest house has been rebuilt twice but has never stopped serving the same function: a place to sleep when you are between places. Permanent residents arrived the same way the first carter did, they stopped, they noticed something was needed, and they filled the need. [[Tallin Oss]] built the crate storage commission structure eight seasons ago and has kept logs since. Praven Holdt set up feed and water for animals four summers ago. The cistern predates both of them.
 
 ## Geography & Layout
 
@@ -37,7 +37,7 @@ The Fork does not extract or produce anything. It moves things between people wh
 
 Factors who buy salt from [[Caltworks]] haulers do not travel to the flats in person. They keep a room at the factor house and wait. Haulers arrive, negotiate here, and continue to the coast or turn back. The transaction happens at The Fork, away from the weighmaster's yard, away from the harbor, outside the eyeline of the families who want to control both ends.
 
-Storage commission is the main income for the permanent residents. Praven Holdt handles animals and overnight rig storage. Tallin Oss manages crate storage, keeps the logs, and has never lost a crate. The rest house is run by whoever is currently married to the Oss family, a detail that has changed twice in the last decade.
+Storage commission is the main income for the permanent residents. Praven Holdt handles animals and overnight rig storage. [[Tallin Oss]] manages crate storage, keeps the logs, and has never lost a crate. The rest house is run by whoever is currently married to the Oss family, a detail that has changed twice in the last decade.
 
 Travelers pay per night, per animal, per crate. No credit. No exceptions.
 
@@ -56,7 +56,7 @@ Travelers pay per night, per animal, per crate. No credit. No exceptions.
 
 | Name | Role | Notes |
 |---|---|---|
-| Tallin Oss | Storage yard operator | Has managed crate logs for eight seasons. Knows every factor by their handwriting. |
+| [[Tallin Oss]] | Storage yard operator | Has managed crate logs for eight seasons. Knows every factor by their handwriting. |
 | Praven Holdt | Animal yard and rig storage | Arrived four years ago, bought out the previous operator. Neutral on salt politics because both sides need his yard. |
 | Varet | Factor, coast-side | Keeps a monthly room in the factor house. Buys from haulers before they reach the harbor. |
 | Cedd Miralle | Factor, Caltworks-adjacent | Moved here from [[Caltworks]] three years ago after a dispute with [[Maren Seedeck]]. Has not explained it. |
