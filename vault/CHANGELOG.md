@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-03-29 — The Fork: NPCs Created
+
+- Created [[Tallin Oss]] NPC file: storage yard operator at [[The Fork]], eight seasons of crate logs, reluctant keeper of dangerous records, Cordham's hold-logs message sitting unanswered
+- Created [[Cedd Miralle]] NPC file: displaced factor with a 2.5-year private audit of Caltworks, numbers that do not reconcile, and a settled approach to any outside investigator who asks the right question
+
 ## 2026-03-29 — The Fork: Information Dynamics
 
 - Updated [[The Fork]]: Cedd Miralle now has a settled approach, he will not report proactively but will share his findings with any outside party who comes with the right question; obtained Caltworks declared output through a weighmaster contact
