@@ -1,0 +1,1 @@
+{"classification":"tactical","recorded_at":"2026-03-29T00:24:39.947Z","tags":["watchdog","auto-recorded"],"type":"failure","description":"Agent: orchestrator\nCapability: orchestrator\nFailure reason: Process terminated\nDetected by: Tier 0 (process death)","resolution":"","id":"mx-2c4c9a"}
