@@ -38,8 +38,13 @@ tags:
 
 - Three independent families break from the main flats and begin working a secondary flat a half-day north along the North Track
 - Production at the secondary flat grows enough to attract notice. The Calt family has not yet decided whether to acquire it or undercut its pricing.
-- [[Vess Cordham]] privately determines the [[Caltworks]] salt is degrading. Begins quiet negotiations with a secondary supplier to the west. Does not inform [[Rackby]].
+- [[Vess Cordham]] privately determines the [[Caltworks]] salt is degrading. Begins quiet negotiations with [[Hava Denn]] at [[Silthen]] for grey salt from the estuary tidal pans as a secondary supplier. Does not inform [[Rackby]].
 - Cedd Miralle relocates from [[Caltworks]] to [[The Fork]] after [[Maren Seedeck]] blocks one of his purchase transactions without explanation.
+
+## Four Months Ago (~Year -0.33)
+
+- [[Vess Cordham]] travels to [[Silthen]] and meets with the Voel family to assess the tidal salt pans as a potential secondary supply source. Speaks briefly with [[Hava Denn]]. Does not explain why he wants scale.
+- Cordham returns to [[Rackby]] and begins sending messengers to [[Silthen]] with order requests. Grey salt volumes begin growing quietly through [[Hava Denn]]'s accounts.
 
 ## Present (Year 0)
 

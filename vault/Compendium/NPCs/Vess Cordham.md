@@ -25,7 +25,7 @@ He smells faintly of woodsmoke and horse. His voice is even and measured, the ki
 
 **Deeper impression:** He operates through information asymmetry and has done so long enough that withholding is reflexive, not calculated. He does not lie outright. He simply tells each party exactly what they need to hear to keep the arrangement running, which is never the full picture.
 
-**What they hide:** He has known for two seasons that the salt from [[Caltworks]] is degrading. He has not told [[Rackby]]. He has been quietly arranging a secondary supplier to the west, so that when the Caltworks supply becomes untenable he can step in as the solution to a problem he knew about and did not disclose.
+**What they hide:** He has known for two seasons that the salt from [[Caltworks]] is degrading. He has not told [[Rackby]]. He has been quietly arranging a secondary supplier to the west, [[Silthen]], negotiating through [[Hava Denn]] for grey salt from the estuary tidal pans, so that when the Caltworks supply becomes untenable he can step in as the solution to a problem he knew about and did not disclose.
 
 ## Backstory
 
@@ -44,6 +44,8 @@ He has genuinely made things work. The arrangement he built has been reliable fo
 | Burl | Trusted dependency | His dock manager knows more about the secondary supplier negotiations than anyone. Cordham trusts him completely, which is the only relationship he holds that way. |
 | Tallin Oss | Professional neutral | Oss keeps records at [[The Fork]] that Cordham uses as a staging point. They have a clean working arrangement. He does not know how complete Oss's logs are. |
 | [[Dessa Vael]] | Indirect pressure | He has approached her, through an intermediary, about timing a hauler stoppage at [[Caltworks]] to coincide with a large Calt family shipment. He has not heard back yet. If this surfaces, it implicates him in [[Caltworks]] internal politics from a distance. |
+| [[Hava Denn]] | Supplier contact, managed carefully | She sells him grey salt from [[Silthen]]'s estuary pans. He has grown his orders over four seasons without explaining why. She is beginning to ask questions he does not want to answer yet. |
+| Pell Voel | Direct negotiation, Silthen pans | Head of the Voel family, the tidal pan operators at [[Silthen]]. Cordham has spoken with him directly about scale and pricing. Voel is more cautious than expected and appears to have received outside advice on contract terms. |
 
 ## What They Want
 
@@ -54,7 +56,7 @@ He has genuinely made things work. The arrangement he built has been reliable fo
 > [!warning]- GM Only
 > **Campaign role:** The slow-burning crisis made human. He is not a villain but he has been making small self-serving decisions for a decade and they are about to compound into a very large one. He is the natural center of any plot involving the salt trade.
 >
-> **Key secret:** He has had a secondary salt supplier arranged for four months. He is delaying disclosure until the transition is complete, so he can present it as a solution rather than admit he sat on knowledge of a problem. If [[Rackby]] learns he knew and said nothing, the relationship is likely unrecoverable. If [[Caltworks]] learns he is quietly replacing them, the Calt family will move to block or undercut the arrangement.
+> **Key secret:** He has had a secondary salt supplier arranged for four months: [[Silthen]]'s tidal pans, accessed through [[Hava Denn]]. He is delaying disclosure until the transition is complete, so he can present it as a solution rather than admit he sat on knowledge of a problem. If [[Rackby]] learns he knew and said nothing, the relationship is likely unrecoverable. If [[Caltworks]] learns he is quietly replacing them, the Calt family will move to block or undercut the arrangement. If [[Hava Denn]] learns she is being positioned as a replacement rather than a supplementary buyer, she may withdraw entirely.
 >
 > **Arc trajectory:** If nothing intervenes, Cordham completes the supplier transition, frames it as a proactive upgrade, and survives the scandal at reduced trust. If the spoilage accounting happens before the transition is ready, he is exposed as someone who knew the salt was bad and kept charging as if it were good. At that point, both settlements have reasons to be done with him.
 >

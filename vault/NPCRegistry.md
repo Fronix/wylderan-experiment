@@ -16,3 +16,4 @@ tags:
 | Varet | [[The Fork]] | Factor, coast-side | alive | |
 | Cedd Miralle | [[The Fork]] | Factor, Caltworks-adjacent | alive | |
 | [[Hava Denn]] | [[Silthen]] | Communal reed plot manager, grey salt contact | alive | [[Hava Denn]] |
+| Pell Voel | [[Silthen]] | Tidal pan operator, Cordham negotiation contact | alive | |
