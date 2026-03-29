@@ -23,7 +23,7 @@ Tall and weathered, with a stooped walk from decades of bending over salt frames
 
 **Deeper impression:** He is not a tyrant and does not want to be one. He wants the settlement to work. He just believes, genuinely, that it should work with the Calt family at the center of it, because who else dug the first channels?
 
-**What they hide:** He is afraid his children will leave. His eldest son is already talking about selling his rights and moving to a river town. If that happens, the family claim collapses within a generation.
+**What they hide:** He is afraid his children will leave. [[Tavin Calt]], his eldest son, has been asking questions about buyers and valuations that Oran pretends not to understand. If Tavin goes, the family claim collapses within a generation.
 
 ## Backstory
 
@@ -39,7 +39,7 @@ He has tried twice to get [[Maren Seedeck]]'s office to formally recognize the C
 |---|---|---|
 | [[Maren Seedeck]] | Frustrated grudging respect | He resents her authority and relies on her legitimacy |
 | [[Dessa Vael]] | Threat by category | He sees the hauler talk as the beginning of something that ends badly |
-| His family | Succession anxiety | He needs someone to inherit the claim who actually wants it |
+| [[Tavin Calt]] | Love and incomprehension | His eldest son has the skills to run the family operation and is quietly deciding not to |
 
 ## What They Want
 
@@ -52,7 +52,9 @@ He has tried twice to get [[Maren Seedeck]]'s office to formally recognize the C
 >
 > **Key secret:** The original channel-building was done with labor that was not entirely voluntary. A drought two generations back. Workers who needed food. Oran knows the family story and does not examine it closely.
 >
-> **Arc trajectory:** If nothing changes, he will make a worse and worse version of the same argument until it either works or destroys the family's remaining goodwill. If the hauler situation escalates, he will almost certainly try to align with whoever offers to suppress it.
+> **Arc trajectory:** If nothing changes, he will make a worse and worse version of the same argument until it either works or destroys the family's remaining goodwill. If the hauler situation escalates, he will almost certainly try to align with whoever offers to suppress it. If Tavin leaves, Oran will either collapse or radicalize, there is no middle path left to him at that point.
+>
+> **Succession note:** [[Tavin Calt]] is the load-bearing piece of the family's future. Oran does not fully understand that Tavin has already decided; he interprets the questions about buyers as due diligence, not exit planning. If the PCs know about the letter to Osset before Oran does, that is a significant lever.
 >
 > **Roleplay notes:**
 > - Speech pattern: Measured, declarative. He states things as facts that are actually claims.
