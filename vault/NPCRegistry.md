@@ -15,3 +15,4 @@ tags:
 | Praven Holdt | [[The Fork]] | Animal yard and rig storage | alive | |
 | Varet | [[The Fork]] | Factor, coast-side | alive | |
 | Cedd Miralle | [[The Fork]] | Factor, Caltworks-adjacent | alive | |
+| [[Hava Denn]] | [[Silthen]] | Communal reed plot manager, grey salt contact | alive | [[Hava Denn]] |
