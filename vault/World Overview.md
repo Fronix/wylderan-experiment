@@ -1,6 +1,7 @@
 ---
 tags:
   - meta
+type: meta
 ---
 
 # World Overview

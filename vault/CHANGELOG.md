@@ -1,4 +1,19 @@
+---
+tags:
+  - meta
+type: changelog
+---
+
 # Changelog
+
+## 2026-03-29 — Lore Fixes: Timeline Contradictions, Wikilinks, Frontmatter
+
+- Fixed Timeline: [[Cedd Miralle]]'s relocation moved from "Two Seasons Ago" to "~Year -3" (consistent with NPC, The Fork, and three-year audit duration)
+- Fixed Timeline: Cordham entry now says he "accelerates" grey salt orders at Two Seasons Ago, not "begins negotiations" (Hava Denn's NPC establishes contact predates that)
+- Fixed The Fork (Origin): corrected ordering; [[Tallin Oss]] built the crate commission structure eight seasons ago and predates Praven Holdt (four summers ago), not the reverse
+- Fixed [[Maren Seedeck]] NPC: changed "six years ago" to "seven years ago" (consistent with holding the position for six years after earning it within her first year)
+- Wikilinks: added [[Vess Cordham]] in Rackby.md (body + Notable Residents); added [[Hava Denn]] in Silthen.md (People & Culture + Notable Residents); added [[Tallin Oss]] in The Fork.md (Origin, Economy, Notable Residents) and Timeline.md
+- Frontmatter: added `type:` field to CHANGELOG.md, World Overview.md, NPCRegistry.md, Timeline.md (all were missing required `type:` field)
 
 ## 2026-03-29 — The Fork: NPCs Created
 
