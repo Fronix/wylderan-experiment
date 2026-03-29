@@ -46,6 +46,11 @@ tags:
 - [[Vess Cordham]] travels to [[Silthen]] and meets with the Voel family to assess the tidal salt pans as a potential secondary supply source. Speaks briefly with [[Hava Denn]]. Does not explain why he wants scale.
 - Cordham returns to [[Rackby]] and begins sending messengers to [[Silthen]] with order requests. Grey salt volumes begin growing quietly through [[Hava Denn]]'s accounts.
 
+## Recent Weeks (~Year -0.05)
+
+- Cedd Miralle completes his comparison of [[The Fork]] crate logs against [[Caltworks]]' declared output, using figures obtained through a contact at the weighmaster's office. The weight discrepancy across three seasons is clear. He decides not to report it proactively but to approach any outside party who comes looking with the right question.
+- [[Vess Cordham]] sends a message to Tallin Oss at [[The Fork]] instructing him to hold all logs pending a routine factor audit and not to release copies. Oss reads the message, makes a copy of the discrepancy entries, and stores it separately in the locked chest at the rest house. Does not inform Cordham or Miralle.
+
 ## Present (Year 0)
 
 - [[Oran Calt]] runs the family salt operation. His eldest son is already discussing selling the claim and leaving.
