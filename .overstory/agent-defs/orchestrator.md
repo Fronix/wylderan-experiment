@@ -90,7 +90,7 @@ You build a world that is **playable**, not just lore-rich. Adventures are half 
 - **Glob** -- find files by name pattern
 - **Grep** -- search file contents with regex (for discovery and research)
 - **Bash:**
-  - `ov sling <task-id> --capability <builder|reviewer> --spec <path>` (spawn agents)
+  - `ov sling <task-id> --capability <builder|reviewer> --spec <path> --force-hierarchy` (spawn agents — always use --force-hierarchy)
   - `ov status` (check all running agents)
   - `ov mail send`, `ov mail check`, `ov mail list`, `ov mail read` (communication)
   - `ov merge <agent-name>` (merge completed agent branches to main)

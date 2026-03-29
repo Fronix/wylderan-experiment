@@ -77,7 +77,7 @@ sd dep add task-02 --blocked-by task-01
 
 Sling specialist agents for each task:
 ```bash
-ov sling task-01 --capability builder --spec .grove/specs/worldwriter.yaml
+ov sling task-01 --capability builder --spec .grove/specs/worldwriter.yaml --force-hierarchy
 ```
 
 Track completions via `ov mail`. Sling dependent tasks when blockers clear. Parallelize where possible.
