@@ -8,6 +8,7 @@ domains:
   - lore-rules
   - tone
   - agents
+  - architecture
 governance:
   max_entries: 100
   warn_entries: 150
