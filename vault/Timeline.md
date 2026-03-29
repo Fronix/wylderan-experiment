@@ -51,11 +51,20 @@ type: meta
 
 - Cedd Miralle completes his comparison of [[The Fork]] crate logs against [[Caltworks]]' declared output, using figures obtained through a contact at the weighmaster's office. The weight discrepancy across three seasons is clear. He decides not to report it proactively but to approach any outside party who comes looking with the right question.
 - [[Vess Cordham]] sends a message to Tallin Oss at [[The Fork]] instructing him to hold all logs pending a routine factor audit and not to release copies. Oss reads the message, makes a copy of the discrepancy entries, and stores it separately in the locked chest at the rest house. Does not inform Cordham or Miralle.
+- [[Bevan Calt]] is seen in [[Rackby]] meeting with a factor unconnected to the salt trade. Word returns to [[Caltworks]] within two weeks via a carter who recognized him. Bevan offers no explanation when asked by [[Oran Calt]].
+
+## Recent Days (~Year -0.01)
+
+- [[Bevan Calt]] removes his name from the brine shed duty rotation and stops appearing at the morning weighing queue. No announcement. The settlement reads this as a signal.
+- [[Nael Calt]] takes over the outer flats scheduling without being asked. She does not claim authority she does not have. She simply does the work.
+- The three families at the north flat hold a meeting. What was discussed is not known outside the meeting. Two of those families have kin still working the main flats.
+- [[Maren Seedeck]] records a larger-than-usual backlog in the weighing queue. She does not assign a cause in her ledger.
 
 ## Present (Year 0)
 
-- [[Oran Calt]] runs the family salt operation. His eldest son is already discussing selling the claim and leaving.
-- [[Maren Seedeck]] has been approached twice by outside merchants seeking tiered weigh fees. Has refused both times, told no one.
-- [[Dessa Vael]] has been approached through an intermediary (acting for [[Vess Cordham]]) about timing a hauler stoppage against a Calt shipment. Has not accepted. Has not declined.
+- [[Oran Calt]] runs the family salt operation in name. In practice, the outer flats run on [[Nael Calt]]'s organization and the weighing yard runs on [[Maren Seedeck]]'s. Oran's authority is increasingly formal rather than operational.
+- [[Bevan Calt]]'s intentions are the open secret in [[Caltworks]]. Nobody knows who the buyer is or whether a deal is close. The uncertainty is doing more damage than any sale would.
+- [[Maren Seedeck]] has been approached twice by outside merchants seeking tiered weigh fees. Has refused both times, told no one. If the Calt claim transfers to an outside buyer, a third approach is likely.
+- [[Dessa Vael]] has been approached through an intermediary (acting for [[Vess Cordham]]) about timing a hauler stoppage against a Calt shipment. Has not accepted. Has not declined. The succession uncertainty has made the stoppage offer more attractive: if the claim is about to change hands, acting now has a different weight.
 - [[Rackby]] has lost close to a quarter of its cured stock to spoilage two years running. The boat owners blame the curing floor. The curers point at the salt.
 - The productive salt crust shrinks each year. The town does not discuss this openly.
