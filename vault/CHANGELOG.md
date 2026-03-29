@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-03-29 — Cross-References: Silthen Integration
+
+- Updated [[Vess Cordham]]: "What they hide" now names [[Silthen]] and [[Hava Denn]]; added Hava Denn and Pell Voel to relationships table; GM Key Secret now names Silthen and notes Hava Denn as a risk vector
+- Updated Timeline: renamed "secondary supplier to the west" reference to [[Silthen]]/[[Hava Denn]]; added new Four Months Ago entry for Cordham's Silthen visit and messenger campaign
+- Updated World Overview: Trade Chain Dependency now includes Silthen as the emerging third node; Information Asymmetry now includes Hava Denn suppressing grey salt volumes from the collective
+- Updated NPCRegistry: added Pell Voel (Silthen tidal pan operator, Cordham negotiation contact)
+
 ## 2026-03-28 — World Initialized
 
 World created. System: Nimble.
