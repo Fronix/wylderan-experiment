@@ -6,6 +6,15 @@ type: changelog
 
 # Changelog
 
+## 2026-04-01 — Harren's Gate and Brindleford Created
+
+- Created [[Harren's Gate]]: the provincial administrative seat ~5-6 days south of [[Thornmeet]], city of ~3500, stone-walled, underfunded garrison of 60-80, magistrate with theoretical jurisdiction over all frontier settlements but no practical enforcement reach
+- Created [[Brindleford]]: river crossing town of ~500 on the main road between [[Thornmeet]] and [[Harren's Gate]], ford plus ferry, leather working from livestock trade
+- New NPCs: [[Corven Seld]] (magistrate), [[Pett Vaske]] (garrison commander), [[Davan Orrick]] (tax registrar), [[Hasse Grunn]] (ferry operator, Brindleford), Told Wessmark (leather worker, Brindleford)
+- New wikilinks introduced for future expansion: [[Pellan]] (rival city south), [[Fenwick]] (eastern farms), [[Coldwell]], [[Stave]], [[Galden Reach]], [[Kettle]], [[Dellmarsh]]
+- GM layer: magistrate received consortium petition tied to [[Bevan Calt]]'s sale negotiations; clerk sent north toward [[Caltworks]] to assess; Harren's Gate land registry has no Caltworks filings; Hasse Grunn sabotaging the Brindleford ford to monopolize the crossing
+- Updated NPCRegistry: added Harren's Gate and Brindleford residents
+
 ## 2026-04-01 — The North Flat Created
 
 - Created [[The North Flat]]: secondary salt flat half a day north of [[Caltworks]], worked by three breakaway families (Parets, Dunholts, Kellith clan) over two seasons
