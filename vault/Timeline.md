@@ -38,8 +38,8 @@ type: meta
 
 ## Two Seasons Ago (~Year -0.5)
 
-- Three independent families break from the main flats and begin working a secondary flat a half-day north along the North Track
-- Production at the secondary flat grows enough to attract notice. The Calt family has not yet decided whether to acquire it or undercut its pricing.
+- Three independent families (the Parets, the Dunholts, the Kellith clan) break from the main flats and begin working [[The North Flat]], a secondary flat a half-day north along the North Track
+- Production at [[The North Flat]] grows enough to attract notice. The Calt family has not yet decided whether to acquire it or undercut its pricing.
 - [[Vess Cordham]] privately determines the [[Caltworks]] salt is degrading. Accelerates grey salt orders through [[Hava Denn]] at [[Silthen]] as a secondary supplier. Does not inform [[Rackby]].
 
 ## Four Months Ago (~Year -0.33)
@@ -57,7 +57,7 @@ type: meta
 
 - [[Bevan Calt]] removes his name from the brine shed duty rotation and stops appearing at the morning weighing queue. No announcement. The settlement reads this as a signal.
 - [[Nael Calt]] takes over the outer flats scheduling without being asked. She does not claim authority she does not have. She simply does the work.
-- The three families at the north flat hold a meeting. What was discussed is not known outside the meeting. Two of those families have kin still working the main flats.
+- The three families at [[The North Flat]] hold a meeting called by [[Senna Paret]]. The item on the table: whether to approach a factor directly and establish a supply arrangement before the Calt claim transfers to an unknown buyer. The meeting ends without a decision. Two of those families have kin still working the main flats.
 - [[Maren Seedeck]] records a larger-than-usual backlog in the weighing queue. She does not assign a cause in her ledger.
 
 ## Present (Year 0)

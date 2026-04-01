@@ -6,6 +6,14 @@ type: changelog
 
 # Changelog
 
+## 2026-04-01 — The North Flat Created
+
+- Created [[The North Flat]]: secondary salt flat half a day north of [[Caltworks]], worked by three breakaway families (Parets, Dunholts, Kellith clan) over two seasons
+- Named de facto leader [[Senna Paret]] and established Bram Dunholt and Fen Kellith as secondary figures
+- GM layer: north flat salt quality is better than the degrading main flats; [[Senna Paret]] called a meeting to discuss approaching a factor directly; [[Nael Calt]] has quiet contact with the families via Bram Dunholt
+- Updated [[Caltworks]]: North Track and Tensions section now wikilink to [[The North Flat]]
+- Updated Timeline: named the three families, named [[Senna Paret]] as meeting caller, added meeting outcome (no decision reached)
+
 ## 2026-03-29 — Calt Succession Crisis
 
 - Created [[Bevan Calt]] NPC file: [[Oran Calt]]'s eldest son, in active sale negotiations with an outside merchant consortium, rational exit from a declining claim he never wanted
