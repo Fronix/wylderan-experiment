@@ -23,3 +23,4 @@ type: meta
 | [[Hava Denn]] | [[Silthen]] | Communal reed plot manager, grey salt contact | alive | [[Hava Denn]] |
 | Pell Voel | [[Silthen]] | Tidal pan operator, Cordham negotiation contact | alive | |
 | Kel Dusk | [[Silthen]] / salt road | Carter, runs reed loads northeast to Caltworks | alive | |
+| [[Senna Paret]] | [[The North Flat]] | De facto head of the north flat breakaway operation | alive | [[Senna Paret]] |
