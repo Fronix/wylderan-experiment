@@ -1,83 +1,81 @@
 ---
 tags:
   - location
-  - region/northern-hills
+  - region/north-hills
 type: settlement
-region: Northern Hills
+region: North Hills
 population: ~250
 ---
 
 # Coldwell
 
 > [!info] At a Glance
-> A clay-and-iron working settlement in the northern hills, built around two extraction operations that have almost nothing in common except proximity. The clay pits and the iron workings have different owners, different workers, and different buyers. The town exists because both needed the same road.
+> A mining settlement in the hills north of the salt flats, worked by families who came for the clay and stayed because leaving is expensive. The name is literal. One mine shaft collapsed last season and has not been reopened. The surface clay is running thin.
 
 ## Origin
 
-A man named Drevven Coss came up into the northern hills looking for a place to roof over his clay kiln without paying a town's rates. He found a good clay seam, built a shed, and stayed. Three years later a family called the Wulchs arrived with a lease from nobody in particular and started working iron ore out of a low ridge a quarter-mile uphill. They needed a road. Coss already had one. They agreed to share it and have been arguing about maintenance costs ever since.
+Nobody planned Coldwell as a settlement. A few mining families arrived independently over a decade, drawn by clay deposits and a low iron seam that looked more promising before anyone dug into it. There was no founding moment. There was a stream, a useful hillside, and people who built structures rather than tents because the winters made clear that tents were not adequate.
 
-The settlement grew up between those two operations. Workers arrived, a food stall opened, someone built a second stall. The road out got better because the Wulchs kept complaining until it did.
+The mine boss arrangement grew from the same necessity. Tellen Grubb arrived with experience and a team, organized the first shaft properly, and became the person disputes got referred to because he had opinions and acted on them. No one voted for him. No one needed to.
 
 ## Geography & Layout
 
-Coldwell sits on a hillside bench in the northern hills, about two days' travel northeast of [[Caltworks]] along a track that goes soft in wet season. The clay pits are downhill, worked as open cuts. The iron workings are uphill: a series of shallow shafts and a small smelting yard.
+Coldwell sits on a rocky hillside above a fast-running stream. The stream runs red-brown from iron runoff. The mine entrances are uphill from the settlement, above the tree line where the rock breaks surface.
 
-The settlement between them has no formal center. Buildings occupy whatever flat ground was available when someone decided to build. There is a well near the bottom of the main track, a covered grain store, a smithing shed attached to the Wulch iron yard, and enough roofed sleeping space for the permanent workers.
+The surface pits scar the hillside in a wide swath east of the upper entrance. These are the current primary operation. The deeper shaft, which produced better clay, is closed. The entrance is shored and marked with a split post.
 
-The road south to [[Caltworks]] is the only maintained route. A path runs west toward [[Stave]], used mainly by timber teams bringing mine supports.
+A cart track runs south, connecting to [[The North Flat]] and from there to [[Caltworks]]. A second track runs east toward [[Stave]]. Both tracks are rough and go soft in wet season.
 
-## People & Work
+The settlement itself is below the pits: a cluster of houses built around the supply storage and the clay processing yard, where surface clay is sorted, dried, and packed for shipment.
 
-The clay operation and the iron operation employ different workers and run on different seasonal rhythms. This creates two informal populations that share the same small settlement and do not particularly mix.
+## People & Culture
 
-Clay workers are year-round. The pits do not close in wet season, though output drops. Drevven Coss is old enough that his daughter Pell now runs the day-to-day work. Pell manages the pit roster and the kiln schedule and has been arguing with her father for two seasons about expanding the sealed-crate line, which she believes has more margin than raw clay supply.
+The permanent population works either the surface pits or the processing yard. A few households have members doing neither, supporting the operation through food preparation, equipment repair, and supply management.
 
-Iron workers follow the smelting calendar, which requires dry wood from [[Stave]] and is therefore intermittent in wet season. The Wulch family employs a crew of twelve at peak season, fewer in off-months. Orrel Wulch is the current family head. He is forty and careful about numbers.
+Cold winters and underground work select for people who are practical and impatient with things that do not function. Disputes are short and direct. Grudges are remembered because there are not many people and forgetting is not available as an option.
+
+Tellen Grubb runs the operation as a foreman, not a mayor. He assigns pit shifts and processing tasks, arbitrates disputes over crate counts, and decides what gets repaired first when resources are short. Families who disagree with his decisions either argue with him directly or accumulate their objections into a larger complaint. There is no formal mechanism for the larger complaint.
 
 ## Economy
 
-Coldwell has two distinct income streams that only occasionally intersect.
+Clay is the primary income. Coldwell clay is used specifically to seal salt crates: it sets hard under pressure, resists moisture through a long haul, and has properties the [[Caltworks]] crate builders have not been able to replicate with clay from other sources. This makes it the only supply link they have that is genuinely difficult to replace.
 
-**Clay** goes to two buyers: construction factors on the southern road who need kiln brick, and the sealed-crate trade. Coss clay has been used for crate lids and joint sealant since someone at [[Caltworks]] noticed that Coss clay fires harder and cheaper than the imported stuff. The crate-sealing market is small but reliable. Pell Coss believes it could be much larger if she could guarantee consistent kiln output, which she cannot currently do because her father still runs the firing schedule.
+Iron is secondary and low quality. The deposit produces enough for nails, basic hardware, and simple tools. It does not produce iron suitable for weapons or structural work. It sells to whoever needs cheap hardware on the southern road.
 
-**Iron** is sold primarily as finished tools: scrapers, pan frames, fixing pins, and general smithed goods. The salt trade is the best buyer. [[Caltworks]] workers buy replacement scrapers and boiling equipment steadily, and the road between Coldwell and Caltworks exists partly for this reason. Orrel Wulch has a standing arrangement with a Caltworks carter who does the run once per month.
-
-The road itself is the informal economy. Travelers passing between the northern hills and the salt flats stop here because there is nowhere else with a bed and a meal between the hills and the flats.
+Clay goes south to [[Caltworks]] and to [[The Fork]], where crate builders use it for shipment sealing. Iron moves irregularly through the same route.
 
 ## Tensions
 
-The road maintenance dispute between the Coss family and the Wulch family is the official conflict. It is not the real one.
+The collapsed shaft is the central problem. The deep clay, which produced better seal quality, has been inaccessible since the collapse last season. Grubb has refused to send workers back down until the shaft is properly shored. Shoring requires timber from [[Stave]], and Stave has been slow to deliver due to its own labor shortage.
 
-The real conflict is over what Coldwell is becoming. Pell Coss wants to scale the sealed-crate operation, which would require a second kiln and two more permanent workers, and would make Coldwell a manufacturer rather than a raw-material supplier. Orrel Wulch has no stake in this but watches carefully: a scaled clay operation would draw more traffic and more workers, which changes the town's balance. Wulch workers are currently the larger workforce. That would flip.
+In the meantime, the operation has been running on surface clay and a stockpile from before the collapse. Surface clay is adequate but not equivalent. Crate builders at [[The Fork]] have started reporting seal failure rates they consider unacceptable. If this continues, the Coldwell clay contract is at risk.
 
-The workers themselves are watching the iron yield. The Wulch family has not announced anything, but the shaft crews have been going deeper for two seasons and bringing up smaller loads. Nobody outside the Wulch operation has been told this clearly, but the shaft workers talk, and the talk has reached the clay side.
+Three mining families have been pressing Grubb to reopen the shaft without waiting for full shoring. They believe the risk is manageable. Grubb does not. This disagreement has been ongoing for two months and has not been resolved. The leader of the reopening faction is Doss Kellith, whose family has a branch connection to the Kellith clan at [[The North Flat]]. He has been inspecting the collapse site on his own time.
 
 ## Notable Locations
 
 | Location | Description |
 |---|---|
-| The Coss Pits | Open clay cuts downhill from the main settlement. Three active faces. Fourth face was closed two seasons ago, reason not given. |
-| Coss Kiln Yard | Covered yard with two kilns. The older kiln runs better. The firing schedule is kept by Drevven Coss in his head. |
-| Wulch Iron Yard | Smelting shed and smithing bay uphill from settlement center. The smithing bay is run by a smith named Harrek who is employed by the Wulchs but not a Wulch. |
-| The Well | Only reliable water source in the settlement. Technically on Coss ground. The Wulchs have never paid for it. |
-| The Track South | Two-day route to [[Caltworks]]. Maintained by the Wulch family, contested by the Coss family. |
-| The Stave Path | Informal track west to [[Stave]]. Used by timber teams. Not maintained by anyone. |
+| The Deep Shaft | Closed since last season's collapse. Entrance marked with a split post. Grubb controls access. |
+| The Surface Pits | Current primary operation. Four active faces, one worked out and abandoned. |
+| The Processing Yard | Where surface clay is sorted, dried, and packed. The clay stockpile from before the collapse is stored here. |
+| The Supply Store | Food, tools, and replacement equipment. Managed by one of the Grubb-aligned families. |
+| The Cart Track South | Route to [[The North Flat]] and then [[Caltworks]]. Goes soft in wet season. |
+| The Stave Track | Route east to [[Stave]]. Not maintained. Passable in dry season. |
 
 ## Notable Residents
 
 | Name | Role | Notes |
 |---|---|---|
-| Drevven Coss | Clay pit founder, nominal head of the Coss operation | Old, still present, increasingly sidelined by his daughter on practical decisions |
-| Pell Coss | Runs day-to-day clay operations | Has a specific plan for expanding the sealed-crate line that her father has not approved. Is running the numbers herself. |
-| Orrel Wulch | Wulch family head, iron operation | Careful and quiet. Tracks the yield numbers and has not shared what they show. |
-| Harrek | Smith employed by the Wulchs | The only person in the settlement who works both clay and iron output. Occasionally does custom work for Coss customers. Neither family likes this. |
+| Tellen Grubb | Mine boss, de facto settlement authority | Runs the operation as foreman. Disputes get settled by Grubb or not at all. Has refused to reopen the deep shaft. |
+| Doss Kellith | Leader of the reopening faction | Believes the shaft should be reopened now, without waiting for full shoring from [[Stave]]. Has been inspecting the collapse site independently. Related to the Kellith clan at [[The North Flat]]. |
 
 > [!warning]- GM Only
-> The iron vein that the Wulch family has been working is thinning. Orrel Wulch knows this. His shaft foreman knows this. Nobody else in the settlement has been told, and the steady output of finished tools disguises it because Orrel has been drawing down a stockpile of raw ore he built up three seasons ago when the vein was still rich. When the stockpile runs out, output will drop visibly. He has not decided what to do before that point. His options are to find a new shaft location, to quietly sell the iron operation before the drop becomes obvious, or to absorb the drop and renegotiate terms with his Caltworks buyers. None of these are good options.
+> Doss Kellith has been at the collapse site more than work requires. He believes the support timbers were cut rather than broken by natural load failure. He has not said this publicly. His reasoning is that the break pattern is clean at angles consistent with tool work, not the irregular splintering he would expect from a loaded failure. He does not know why Grubb would do this, but the theory fits a pattern: surface-only operations give Grubb tighter control over pit assignments and output tracking. Deep shaft work produces clay in a location where independent count is harder. If Doss is right, Grubb manufactured the supply crisis. If Doss is wrong, his accusation tears the settlement apart over a structural accident. Doss knows both possibilities and is why he hasn't spoken yet.
 >
-> The Caltworks connection is more fragile than Orrel knows. The salt flat degradation at [[Caltworks]] is suppressed information, but if salt output drops, tool replacement demand drops with it. Orrel's standing arrangement with the Caltworks carter is based on current consumption rates. If Caltworks production shrinks, so does the tool order, which accelerates the Wulch revenue problem at exactly the wrong time.
+> Grubb's position on the shaft is cautious but not necessarily corrupt. He has lost workers before to poor shoring decisions and carries that history. The fact that his caution happens to consolidate his operational control is either coincidence or the kind of convenient alignment that a man can stop examining if he prefers not to know. His behavior is consistent with both explanations.
 >
-> Pell Coss's sealed-crate expansion plan is viable. The clay seam she is working is the best in the upper hillside. She knows this because she has been sampling it herself. What she has not told her father is that the fourth pit face he closed two seasons ago was closed because it was running out, and the face she is proposing to expand is on the opposite side of the seam and likely to run for another decade at current extraction rates. If Drevven understood this, he might change his position. Pell has not made this clear because she does not want him reinserting himself into decisions she now controls.
+> The Kellith family connection between Doss and the [[The North Flat]] operation is real. Doss and Fen Kellith at the North Flat are cousins. They exchange messages when carters pass. Doss knows more about the North Flat situation than most people in Coldwell. If the shaft dispute escalates and Doss needs to leave, the North Flat families are the most natural landing point, which Grubb may also have considered.
 >
-> Harrek the smith is the only person in Coldwell who has ongoing contact with both the clay and iron workers, and who deals directly with buyers when they come up the track. He knows more about the settlement's actual condition than either family. He has no stake in either operation but has been approached twice by an outside factor asking about availability of tool supply on different terms than the Wulch arrangement. He has not told Orrel Wulch about these approaches.
+> The crate seal failures at [[The Fork]] are accumulating. Tallin Oss has logged them. If the failure rate continues, [[Vess Cordham]] will hear about it, and Cordham will want to know whether [[Caltworks]] salt that was sealed with failing clay reached [[Rackby]] in compromised condition. This thread connects directly to the salt quality suppression that Cordham is already managing.
 
