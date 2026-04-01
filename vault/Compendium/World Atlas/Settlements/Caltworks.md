@@ -44,7 +44,7 @@ Secondary income comes from the supply chain: food, tools, rope, timber for fire
 
 ## Tensions
 
-The tithe is the open wound. The Calt family insists it is fair. Independent crews increasingly do not. Three families broke away two seasons ago to work a secondary flat a half-day's walk north, and production there is starting to challenge the main flats. The Calts have not yet decided whether to acquire that flat or undercut its pricing.
+The tithe is the open wound. The Calt family insists it is fair. Independent crews increasingly do not. Three families broke away two seasons ago to work [[The North Flat]], a secondary flat a half-day's walk north, and production there is starting to challenge the main flats. The Calts have not yet decided whether to acquire that flat or undercut its pricing.
 
 The weighing yard is where the real power sits. [[Maren Seedeck]] decides whose salt gets weighed first when the queue backs up. First weigh means first payment means the difference between a good week and a bad one. She has held this position for six years. Her judgments are not random.
 
@@ -56,7 +56,7 @@ There is also a quieter problem: the flats are shrinking. Each year the producti
 
 Oran has a younger daughter, [[Nael Calt]], who has been working the outer flats since she was old enough to carry a scraper. She has no formal standing in the family claim and has not been named a successor. In practice she is the one currently overseeing day-to-day work on the main flats while Oran is less mobile and Bevan is absent.
 
-The workers are watching. If Bevan sells to an outside buyer, the tithe does not go away, it just goes to someone they have no history with. An unknown landlord is more threatening than a familiar one. The independent crews at the north flat are quietly considering whether to press their position before the claim changes hands.
+The workers are watching. If Bevan sells to an outside buyer, the tithe does not go away, it just goes to someone they have no history with. An unknown landlord is more threatening than a familiar one. The independent crews at [[The North Flat]] are quietly considering whether to press their position before the claim changes hands.
 
 ## Notable Locations
 
@@ -66,7 +66,7 @@ The workers are watching. If Bevan sells to an outside buyer, the tithe does not
 | Calt Homestead | Original family compound, oldest buildings in town. |
 | The Brine Sheds | Long open structures where packed salt is dried before crating. |
 | The Outer Ring | Informal name for the newer worker settlement. Has its own food stalls and a small meeting hall. |
-| The North Track | Path leading to the breakaway flat. A visible reminder of what leaving looks like. |
+| The North Track | Path leading to [[The North Flat]]. A visible reminder of what leaving looks like. |
 | [[The Fork]] | Waypoint staging yard 1-1.5 days east on the salt road. Where factors negotiate and crates change hands before the final haul to Rackby. |
 
 ## Notable Residents
