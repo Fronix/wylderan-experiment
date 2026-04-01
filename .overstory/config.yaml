@@ -9,7 +9,7 @@ project:
 agents:
   manifestPath: .overstory/agent-manifest.json
   baseDir: .overstory/agent-defs
-  maxConcurrent: 5
+  maxConcurrent: 15
   staggerDelayMs: 2000
   maxDepth: 2
   maxSessionsPerRun: 0
