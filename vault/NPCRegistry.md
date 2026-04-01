@@ -24,3 +24,8 @@ type: meta
 | Pell Voel | [[Silthen]] | Tidal pan operator, Cordham negotiation contact | alive | |
 | Kel Dusk | [[Silthen]] / salt road | Carter, runs reed loads northeast to Caltworks | alive | |
 | [[Senna Paret]] | [[The North Flat]] | De facto head of the north flat breakaway operation | alive | [[Senna Paret]] |
+| [[Corven Seld]] | [[Harren's Gate]] | Provincial Magistrate | alive | |
+| [[Pett Vaske]] | [[Harren's Gate]] | Garrison Commander | alive | |
+| [[Davan Orrick]] | [[Harren's Gate]] | Tax Registrar, provincial land registry | alive | |
+| [[Hasse Grunn]] | [[Brindleford]] | Ferry operator | alive | |
+| Told Wessmark | [[Brindleford]] | Head leather worker, dredging petition sender | alive | |

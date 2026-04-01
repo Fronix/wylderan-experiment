@@ -53,6 +53,11 @@ type: meta
 - [[Vess Cordham]] sends a message to Tallin Oss at [[The Fork]] instructing him to hold all logs pending a routine factor audit and not to release copies. Oss reads the message, makes a copy of the discrepancy entries, and stores it separately in the locked chest at the rest house. Does not inform Cordham or Miralle.
 - [[Bevan Calt]] is seen in [[Rackby]] meeting with a factor unconnected to the salt trade. Word returns to [[Caltworks]] within two weeks via a carter who recognized him. Bevan offers no explanation when asked by [[Oran Calt]].
 
+## Two Weeks Ago (~Year -0.04)
+
+- [[Corven Seld]], Provincial Magistrate at [[Harren's Gate]], receives a formal petition from a merchant consortium requesting recognition of a land purchase on the northern frontier. The consortium is the same party [[Bevan Calt]] has been in private negotiations with.
+- Seld sends a provincial clerk north on the main road to assess the situation at [[Caltworks]]. The clerk is traveling at standard pace and has not yet arrived.
+
 ## Recent Days (~Year -0.01)
 
 - [[Bevan Calt]] removes his name from the brine shed duty rotation and stops appearing at the morning weighing queue. No announcement. The settlement reads this as a signal.

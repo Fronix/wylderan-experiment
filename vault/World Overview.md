@@ -32,6 +32,10 @@ The salt flats that built Caltworks are shrinking. The town does not know how to
 
 A third node is taking shape quietly. [[Silthen]], a reed-cutting estuary settlement three to four days west of [[Caltworks]], produces low-grade salt as a secondary income. Cordham has been building a supply relationship there through [[Hava Denn]] without disclosing the arrangement to any of the other parties in the chain. If it completes, the trade network becomes a triangle with Cordham at every junction. If it fails or surfaces prematurely, every relationship in the chain is at risk simultaneously.
 
+### Formal vs Informal Authority
+
+[[Harren's Gate]] is where formal authority lives: a land registry, a magistrate's court, a provincial charter. None of the frontier settlements have ever filed anything there. The Calt claim, the weighmaster's position, the tithe, the North Flat breakaway operation: all of it rests on presence and practice, not documentation. The formal system has jurisdiction over these places. It has simply never reached this far north. That gap is narrowing, not because the province is extending itself outward but because a merchant consortium has filed a petition that would require the magistrate to acknowledge the frontier exists. The clerk he sent north has not arrived yet.
+
 ### Information Asymmetry
 
 [[Vess Cordham]] knows the Caltworks salt is declining and has said nothing. [[Tallin Oss]] at [[The Fork]] has crate logs that could expose Caltworks' real output. [[Maren Seedeck]] controls the ledger but shares nothing. [[Dessa Vael]] does not know who approached her. [[Hava Denn]] at [[Silthen]] has been quietly growing grey salt output without putting the full arrangement to the collective. Everyone in this world's first trade corridor holds partial information and benefits from keeping it partial. The crises that are building are all downstream of information someone chose not to share.
